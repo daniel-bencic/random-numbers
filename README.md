@@ -19,3 +19,10 @@ Vergleichen Sie die beiden Algorithmen (z.B. Güte der Zufallszahlen, Schwierigk
 3. `make`
 4. run `random-numbers`
 
+# Comments
+Both sampling methods generate random numbers according to the probability density function.
+The rejection method is an easy and straightforward attempt to generate random numbers but depending on the
+pdf it can be very inefficient.
+The inversion method is a 100% efficient method, however it depends on the calculation of the inverse function of the
+cumulative density function. The implementation requires less work but may be more complicated than the rejection method
+due to the calculation of the inverse cdf.
