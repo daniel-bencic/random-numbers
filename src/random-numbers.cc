@@ -1,11 +1,10 @@
+#include <iostream>
+#include <chrono>
 #include <qt5/QtWidgets/QApplication>
-#include <qt5/QtWidgets/QPushButton>
 #include <qt5/QtWidgets/QMainWindow>
 #include <qt5/QtCharts/QChart>
 #include <qt5/QtCharts/QChartView>
 #include <qt5/QtCharts/QSplineSeries>
-#include <iostream>
-#include <chrono>
 #include "../include/sampling.h"
 
 int main(int argc, char** argv) {

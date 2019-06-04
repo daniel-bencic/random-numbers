@@ -2,8 +2,6 @@
 #include <random>
 #include "../include/sampling.h"
 
-#include <iostream>
-
 double PDF(double x) {
         return 1 / x;
 }
