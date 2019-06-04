@@ -1,4 +1,4 @@
-# Password Permutations
+# Generating Random Numbers by Sampling
 
 Ihre Aufgabe: Erzeugung von Zufallszahlen die der Verteilung des in der Vorlesung erwähnten Beispiels "Eingehende Anrufe bei Fernsehabstimmungen" (https://de.wikibooks.org/wiki/Statistik:_Stetige_Zufallsvariablen) folgen.
 
