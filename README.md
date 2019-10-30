@@ -4,8 +4,8 @@ Ihre Aufgabe: Erzeugung von Zufallszahlen die der Verteilung des in der Vorlesun
 
 Verwenden Sie die Programmiersprache Ihrer Wahl. Allerdings werden Sie keinen Zufallszahlengenerator für genau diese Verteilung finde. Implementieren Sie daher zur Erzeugung dieser Zufallszahlen folgende Algorithmen:
 
-*[Verwerfungsmethode] (Accept Reject)(https://de.wikipedia.org/wiki/Verwerfungsmethode)
-*[Inversionsmethode](https://de.wikipedia.org/wiki/Inversionsmethode)
+* [Verwerfungsmethode (Accept Reject)](https://de.wikipedia.org/wiki/Verwerfungsmethode)
+* [Inversionsmethode](https://de.wikipedia.org/wiki/Inversionsmethode)
 
 Vergleichen Sie die beiden Algorithmen (z.B. Güte der Zufallszahlen, Schwierigkeit der Implementierung, Laufzeit, ...) und bewerten Sie, welcher der Algorithmen für Sie der "bessere" ist. 
 
