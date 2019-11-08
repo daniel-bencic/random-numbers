@@ -14,10 +14,11 @@ Vergleichen Sie die beiden Algorithmen (z.B. Güte der Zufallszahlen, Schwierigk
 * Qt5Charts
 
 # How To Run
-1. `cd build`
-2. `cmake ..`
-3. `make`
-4. run `random-numbers`
+1. `git clone https://github.com/daniel-bencic/random-numbers.git`
+2. `cd build`
+3. `cmake ..`
+4. `make`
+5. run `random-numbers`
 
 # Comments
 Both sampling methods generate random numbers according to the probability density function.
